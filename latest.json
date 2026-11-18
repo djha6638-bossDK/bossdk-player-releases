@@ -1,0 +1,11 @@
+{
+  "versionCode": 15,
+  "versionName": "1.1.11",
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.11-15/bossdk-player-1.1.11-15.apk",
+  "sha256": "8b9ceee59e4ae05adeb5f329586e0d208cbffa1ff8c28f9e1985e67bd1239614",
+  "sizeBytes": 79820608,
+  "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
+  "notes": "In-app auto update: app ab khud naya version download aur install kar sakta hai.",
+  "mandatory": false,
+  "testers": []
+}
