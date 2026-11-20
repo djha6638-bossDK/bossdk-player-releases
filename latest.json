@@ -1,13 +1,11 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.1.14",
-    "url":  "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.14-18/bossdk-player-1.1.14-18.apk",
-    "sha256":  "6ea11a6a2bb4697240915681902f2ddd794764ec53c579ad3d8767203ac6714b",
-    "sizeBytes":  80018680,
-    "certSha256":  "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
-    "notes":  "Fix: app launch crash (plugins init) + update card ab Player aur Gallery dono tabs me.",
-    "mandatory":  false,
-    "testers":  [
-
-                ]
+  "versionCode": 19,
+  "versionName": "1.1.15",
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.15-19/bossdk-player-1.1.15-19.apk",
+  "sha256": "dd045fc40e6620ff69b5934009c22b5a54137514d89283fab0dfba0569c0b217",
+  "sizeBytes": 80018684,
+  "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
+  "notes": "Version bump only (1.1.15+19): koi code change nahi. Pichhle build me launch crash fix + update card (Player + Gallery) hai.",
+  "mandatory": false,
+  "testers": []
 }
