@@ -1,11 +1,11 @@
 {
-  "versionCode": 22,
+  "versionCode": 23,
   "versionName": "1.1.18",
-  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.18-22/bossdk-player-1.1.18-22.apk",
-  "sha256": "62f1ee3cf5c53195b29f59eef2ae3a05787219a2d75dc9f247cd6d076d15ae45",
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.18-23/bossdk-player-1.1.18-23.apk",
+  "sha256": "77177e0d19e458cccf4ed6ce10cd74e6326d8e473320383affd521a95069c5ba",
   "sizeBytes": 84689358,
   "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
-  "notes": "Live Observation (optional, default OFF)\n\n- Google ID link karke startup crash, video/AV sync, cache aur update problems admin tak bhej sakte hain.\n- File names, folder paths, media titles, search queries, emails aur tokens kabhi nahi bhejte.\n- Kabhi bhi OFF, unlink ya delete kar sakte hain. Raw logs 90 din ke baad delete.\n\nIn-app update fix\n\n- Ab purane version se seedha newest version ka update card aata hai.\n- Naya version publish hone par purana card turant replace ho jaata hai.\n- Purani release ki downloaded APK install nahi hoti.",
+  "notes": "Startup crash fix\n\n- Kuch launches par app turant band ho jata tha (FlutterJNI not attached).\n- Flutter engine ab safely cache hota hai, recent-se swipe ke baad dobara kholne par bhi crash nahi.\n- Background download aur notification actions pehle ki tarah kaam karte hain.",
   "mandatory": false,
   "testers": []
 }
