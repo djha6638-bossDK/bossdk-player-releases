@@ -1,11 +1,11 @@
 {
-  "versionCode": 21,
-  "versionName": "1.1.17",
-  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.17-21/bossdk-player-1.1.17-21.apk",
-  "sha256": "8c0b13c250214fe630c5faaf7006ee561ee2862570e4e8fe1ffc9fa51be1afab",
-  "sizeBytes": 80018684,
+  "versionCode": 22,
+  "versionName": "1.1.18",
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.18-22/bossdk-player-1.1.18-22.apk",
+  "sha256": "62f1ee3cf5c53195b29f59eef2ae3a05787219a2d75dc9f247cd6d076d15ae45",
+  "sizeBytes": 84689358,
   "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
-  "notes": "Shorts landing page fixes:\n\n- Short dekhkar bahar aate hi wo turant delete hokar nayi download hoti hai — app restart ki zarurat nahi.\n- Feed ke andar last 10 dekhi hui Shorts rewatch ke liye safe rehti hain; 11th dekhne par sabse purani replace hoti hai.\n- Landing card ab live count dikhata hai (jaise 299/300, 99%) — stale status nahi.\n- 300/300 poora hone par \"Sab 300 Shorts offline ready\" dikhta hai.\n- Pause button sirf download chalne par dikhta hai; idle me gayab.\n- Auto-cache card se duplicate size hata diya (size bade card me hi).\n- Top gear hata kar auto-cache card ke arrow ki jagah chhota gear icon.\n- Info chips ab plain facts hain — \"Sirf Hindi · 1080p · Auto replace\".\n- Offline search tap par saaf message; footer wording update.",
+  "notes": "Live Observation (optional, default OFF)\n\n- Google ID link karke startup crash, video/AV sync, cache aur update problems admin tak bhej sakte hain.\n- File names, folder paths, media titles, search queries, emails aur tokens kabhi nahi bhejte.\n- Kabhi bhi OFF, unlink ya delete kar sakte hain. Raw logs 90 din ke baad delete.\n\nIn-app update fix\n\n- Ab purane version se seedha newest version ka update card aata hai.\n- Naya version publish hone par purana card turant replace ho jaata hai.\n- Purani release ki downloaded APK install nahi hoti.",
   "mandatory": false,
   "testers": []
 }
