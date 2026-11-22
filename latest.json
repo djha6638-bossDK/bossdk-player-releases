@@ -1,11 +1,11 @@
 {
-  "versionCode": 23,
-  "versionName": "1.1.18",
-  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.18-23/bossdk-player-1.1.18-23.apk",
-  "sha256": "77177e0d19e458cccf4ed6ce10cd74e6326d8e473320383affd521a95069c5ba",
+  "versionCode": 24,
+  "versionName": "1.1.19",
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.19-24/bossdk-player-1.1.19-24.apk",
+  "sha256": "699ee3eb5beddb7bb088b8360426b49fa718e876696ce91b90bf4b65319c23a2",
   "sizeBytes": 84689358,
   "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
-  "notes": "Startup crash fix\n\n- Kuch launches par app turant band ho jata tha (FlutterJNI not attached).\n- Flutter engine ab safely cache hota hai, recent-se swipe ke baad dobara kholne par bhi crash nahi.\n- Background download aur notification actions pehle ki tarah kaam karte hain.",
+  "notes": "Background logging fix\n\n- App background/foreground events ab duplicate nahi hote.\n- Live Observation report me normal Shorts info false problem nahi dikhta.\n- Sirf real crashes aur playback problems report hote hain.",
   "mandatory": false,
   "testers": []
 }
