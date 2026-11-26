@@ -1,11 +1,11 @@
 {
-  "versionCode": 25,
+  "versionCode": 26,
   "versionName": "1.1.19",
-  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.19-25/bossdk-player-1.1.19-25.apk",
-  "sha256": "b413f521ece38b87c4fb93a9ce81373acdc9034d024789f40ebb03f14714abf8",
-  "sizeBytes": 84804046,
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.19-26/bossdk-player-1.1.19-26.apk",
+  "sha256": "c32c16363c664f01039d41d120e77d7b5e8259eb9b4f36d24bfa6ad560257ac2",
+  "sizeBytes": 84705742,
   "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
-  "notes": "File sharing diagnostics: share/discovery logs ab Live Observation me aate hain (scan, network, UDP/NSD counters) taaki connection issue ka root cause pata chal sake.",
+  "notes": "Cached Shorts A/V sync fix - audio ab video ke saath sync rehta hai; native merge original A/V timeline preserve karta hai.",
   "mandatory": false,
   "testers": []
 }
