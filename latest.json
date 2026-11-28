@@ -1,11 +1,11 @@
 {
-  "versionCode": 28,
-  "versionName": "1.1.21",
-  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.21-28/bossdk-player-1.1.21-28.apk",
-  "sha256": "03bbb1b50f9e56bbf16a18197809495f872cdb65d0a3f3cfb5bc3c521e821fd3",
-  "sizeBytes": 84853338,
+  "versionCode": 29,
+  "versionName": "1.1.22",
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.22-29/bossdk-player-1.1.22-29.apk",
+  "sha256": "bc4d29b68b8c8bb17ce60c100179cab9711cdd78509dbb2e317ab6ebf3dcb014",
+  "sizeBytes": 84886250,
   "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
-  "notes": "Share sheet se 'BossDK Share' par tap karne par ab seedha sender page khulta hai — file pehle se selected, Share dabane par receiver list. Warm/cold dono flows reliable. Drawer ka Theme card ab patla. Thumbnails app open par turant aate hain aur playback/Shorts ke dauraan cover generation pause rehti hai, isliye video smooth.",
+  "notes": "Sender gallery ab compact list view me. Drawer theme strip patla. In-app update fixes: seedha latest version card, live download progress, installing screen aur install ke baad Open.",
   "mandatory": false,
   "testers": []
 }
