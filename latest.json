@@ -1,11 +1,11 @@
 {
-  "versionCode": 26,
-  "versionName": "1.1.19",
-  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.19-26/bossdk-player-1.1.19-26.apk",
-  "sha256": "c32c16363c664f01039d41d120e77d7b5e8259eb9b4f36d24bfa6ad560257ac2",
-  "sizeBytes": 84705742,
+  "versionCode": 28,
+  "versionName": "1.1.21",
+  "url": "https://github.com/djha6638-bossDK/bossdk-player-releases/releases/download/v1.1.21-28/bossdk-player-1.1.21-28.apk",
+  "sha256": "03bbb1b50f9e56bbf16a18197809495f872cdb65d0a3f3cfb5bc3c521e821fd3",
+  "sizeBytes": 84853338,
   "certSha256": "a3b45b8b68619bb937e581068d5c16cdfe1d4ce9c4fea298bf58cd94dd430fce",
-  "notes": "Cached Shorts A/V sync fix - audio ab video ke saath sync rehta hai; native merge original A/V timeline preserve karta hai.",
+  "notes": "Share sheet se 'BossDK Share' par tap karne par ab seedha sender page khulta hai — file pehle se selected, Share dabane par receiver list. Warm/cold dono flows reliable. Drawer ka Theme card ab patla. Thumbnails app open par turant aate hain aur playback/Shorts ke dauraan cover generation pause rehti hai, isliye video smooth.",
   "mandatory": false,
   "testers": []
 }
